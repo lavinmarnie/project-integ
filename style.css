@@ -1,0 +1,147 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: radial-gradient(#ceb4e0 25%, #ceb4e0 74%);
+  font-family: system-ui;
+}
+.clearfix{
+  clear: both;
+}
+.main{
+  height:1750px;
+  width: 1000px;
+  background-color:violet;
+  box-shadow: 5px 7px 15px 5px purple;
+  margin: 20px auto;
+}
+.top-section{
+  /*background-color:#121413;*/
+  background:#62268c;
+  border-bottom: 10px solid #62268c;
+  text-align: center;
+  padding: 65px;
+ 
+}
+.job{
+  background-color:violet;
+}
+.edu{
+  background-color: #62268c;
+  color:violet;
+}
+.twosides{
+  background:violet;
+  border-bottom: 10px solid #62268c;
+  text-align: center;
+  padding: 40px;
+ 
+}
+.left{
+  width: 50%;
+  float:left;
+  background-color: black;
+}
+.right{
+  width: 50%;
+  float:right;
+}
+.profile{
+  width: 180px;
+  height :145px;
+  border-radius: 50%;
+  border: 10px solid violet;
+  float:right;
+  display: flex;
+  top: 50%;
+  left: 50%;
+   
+}
+.info{
+  text-align: center;
+  font-size: 20px;
+}
+.p1{
+  color: violet;
+  font-size: 65px;
+  font-weight: bold;
+  margin: 0px;
+  margin-top: 10px;
+
+}
+.p1 span{
+  font-weight: 100;
+  color:violet;
+}
+.p2{
+  font-size: 30px;
+  color:violet;
+  margin:0px;
+  margin-top: 10px;
+  
+}
+.col-div-4{
+  width: 30%;
+  float:right;
+  
+}
+.col-div-8{
+  width: 100%;
+  
+  
+}
+
+.content-box{
+  padding: 20px;
+}
+.head{
+  font-size:40px;
+  text-transform: uppercase;
+  font-weight: 800;
+  background-color: black;
+  color:violet;
+}
+.top{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0px;
+  margin-top: 10px;
+  background-color: violet;
+  text-align: center;
+ 
+}
+.p3{
+  color:#000000;
+  margin-bottom:-5px;
+  text-align: justify;
+  text-justify: inter-word;
+  background-color:violet;
+  font-size: 30px;
+ text-align: center;
+}
+.ppp{
+  color:#000000;
+  margin-bottom:-5px;
+  text-align: justify;
+  text-justify: inter-word;
+  background-color:violet;
+  font-size: 20px;
+ text-align: center;
+}
+.fa{
+  color:#151b29;
+}
+.skills{
+  margin-left: -20px;
+  margin-bottom: 0px;
+}
+.skills li{
+  padding:5px;
+ }
+ .skills li span{
+   color:#000000;
+ }
+ .p-4{
+   font-size: 14px;
+   color:violet;
+ }
